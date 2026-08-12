@@ -1,4 +1,4 @@
-print("hola mundo? 1- si / 2- no")
+print("hola mundear? 1- si / 2- no")
 try:
 	respuesta = int(input("elige la opcion: ").strip())
 except ValueError:
