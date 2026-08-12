@@ -12,7 +12,7 @@ ANCHO, ALTO = 600, 400
 TAM_BLOQUE = 20
 FPS = 10
 
-NEGRO = (0, 0, 0)
+NEGRO = (255, 255, 255)
 VERDE = (0, 255, 0)
 ROJO = (255, 0, 0)
 
