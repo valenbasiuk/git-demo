@@ -11,5 +11,5 @@ elif respuesta == 2:
 	print("adios mundo!")
 	raise SystemExit(0)
 else:
-	print("opcion fuera de rango")
+	print("opcion fuera de rango..")
 	raise SystemExit(1)
