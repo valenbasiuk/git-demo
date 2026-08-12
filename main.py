@@ -19,6 +19,7 @@ def main() -> None:
         ("hola.py", "hola mundo"),
         ("calculadora.py", "calculadora"),
         ("snake.py", "snake!"),
+        ("branch.py", "rama develop"),
     ]
 
     while True:
