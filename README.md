@@ -1,6 +1,8 @@
 # repositorio de pruebas y etceteras ! ^-^
 main menu -> hola mundo, snake, etc
 
+pronto mas para venir
+
 snake usa pygame!
 
 # dependencias en linux
