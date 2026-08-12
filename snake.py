@@ -102,7 +102,7 @@ def run_game():
         else:
             snake.pop()
 
-        pantalla.fill(NEGRO)
+        pantalla.fill(VERDE)
         for pos in snake:
             pygame.draw.rect(pantalla, VERDE, (*pos, TAM_BLOQUE, TAM_BLOQUE))
         pygame.draw.rect(pantalla, ROJO, (*comida, TAM_BLOQUE, TAM_BLOQUE))
