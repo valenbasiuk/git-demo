@@ -5,4 +5,9 @@ snake usa pygame!
 
 # dependencias en linux
 
+python
+
+python pip
+
 dl2_ttf
+
