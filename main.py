@@ -17,6 +17,7 @@ def main() -> None:
     base = Path(__file__).parent
     scripts = [
         ("hola.py", "hola mundo"),
+        ("calculadora.py", "calculadora"),
         ("snake.py", "snake!"),
     ]
 
