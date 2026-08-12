@@ -31,7 +31,7 @@ def main() -> None:
             print("saliendo del programa...")
             break
         if not choice.isdigit():
-            print("opcion invalida!")
+            print("opcion invalida! intenta otra vez..")
             continue
 
         idx = int(choice) - 1
