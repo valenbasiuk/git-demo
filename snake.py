@@ -10,7 +10,7 @@ PYGAME_DETECT_AVX2=1
 
 ANCHO, ALTO = 600, 400
 TAM_BLOQUE = 20
-FPS = 10
+FPS = 20
 
 NEGRO = (255, 255, 255)
 VERDE = (0, 255, 0)
@@ -108,7 +108,7 @@ def run_game():
         pygame.draw.rect(pantalla, ROJO, (*comida, TAM_BLOQUE, TAM_BLOQUE))
 
         pygame.display.flip()
-        reloj.tick(FPS)
+        reloj.tick(FPS)/2
 
 
 def main():
