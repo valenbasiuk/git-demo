@@ -13,3 +13,4 @@ python pip
 
 dl2_ttf
 
+proyecto realizado por valentino :3
